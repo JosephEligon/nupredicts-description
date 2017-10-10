@@ -1,4 +1,5 @@
 #NU Predicts
+
 ##What is NUPredicts?
 NUPredicts is a market prediction game originally developed for Northwestern's 2016 **One Book, One Northwestern** event. It has been added to Canvas as a module for instructors to use in their courses. Instructors can now make their own NUPredicts games and questions through an Admin Interface and students can answer those questions.
 
